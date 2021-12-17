@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  ItunesApi
+
+  Created by Halil Kaya on 21.11.2021.
+  Copyright © 2021 kaya. All rights reserved.
+*/
+
+//Dialog
+"dialog.title.error" = "Error";
+"dialog.button.ok" = "Done";
+"dialog.button.yes" = "Yes";
+"dialog.button.no" = "No";
+"dialog.title.areyousure" = "Are You Sure ?";
+
+//EmptyIndicatorView
+"emptyindicatorview.default.title" = "Search movie, music, podcast, etc from iTunes";
+
+
+//General
+"general.done" = "Tamam";
+
+
+//Filter Types
+
+"filter.type.song" = "Song";
+"filter.type.movie" = "Movie";
+"filter.type.podcast" = "Podcast";
+"filter.type.all" = "All";
+
+
+//Main Page
+
+"main.title" = "Search";
+"main.searchbar.placeholder" = "Search";
+
+
+//Detail Page
+
+"entitydetail.title" = "Detail";
+
+
+//Entity Detail
+"entitydetail.dialog.remove" = "Are you sure want to remove media ?";
+
